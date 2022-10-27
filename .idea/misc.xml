@@ -16,6 +16,9 @@
         <option value="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-ORM-TableCreation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-ORM-TableCreation/Spring-11-ORM-Mapping-OneToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-ORM-Mapping-OneToOne-2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -25,4 +28,7 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
 </project>
